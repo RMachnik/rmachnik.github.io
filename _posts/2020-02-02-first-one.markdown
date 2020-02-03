@@ -2,10 +2,58 @@
 layout: post
 title:  "Hi there!"
 date:   2020-02-02 22:50:52 +0100
-categories: main
+categories: blog
+permalink: /blog/
 ---
-{% highlight kotlin %}
-fun main(args[]: String){
-    println("Hi All!)
+{% highlight java %}
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hi All!")
+    }
 }
 {% endhighlight %}
+{% highlight kotlin %}
+fun main() {
+    println("Hi All!")
+}
+{% endhighlight %}
+{% highlight html %}
+<!DOCTYPE HTML>
+<html>
+<body>
+  <script>
+    console.log('Hi All');
+  </script>
+</body>
+</html>
+{% endhighlight %}
+Do I really need to know more than 1 software language?
+
+#### YES, you do.
+
+I remember time when in musical school starting from 4th year you were obliged to have second instrument.
+For most of students it was piano. 
+The reason for that was to understand wider context and [harmony](https://en.wikipedia.org/wiki/Harmony).
+Not all instruments like violin, trumpet, human voice are able to emmit simultaneously multiple tones/notes.
+
+I remember my story, during IT studies, we've started from c++, java, haskell, etc.
+
+However when it comes to my professional experience.
+I do know best java and jvm, I've started from it. 
+I learned javascript, scala, kotlin. 
+
+It opened my eyes on different concepts like: 
+* [function as a first class objects](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+* [companion objects](https://kotlinlang.org/docs/tutorials/kotlin-for-py/objects-and-companion-objects.html)
+* [extensions](https://kotlinlang.org/docs/reference/extensions.html)
+* [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+* [inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
+* [monad](https://medium.com/@taluyev/understanding-the-monad-in-java-ce6975706039)
+* [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
+
+Surprisingly it helped me to be thankful that java is so simple language.
+After some time it gave me possibility to judge over the language flavours and suitability. 
+Do I plan to learn more? Maybe, but for now I am focused on getting my head around algorithms.
+I do tasks from [Cracking the coding interview](http://crackingthecodinginterview.com/). 
+
+In my view this is really language that people should start from.

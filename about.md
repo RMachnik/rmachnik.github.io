@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Rafał Machnik.
+Software, management and music is my first blog ever.
+![Me](/assets/avatar1.jpeg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Why?
+I treat this blog as space where I share my experience, opinion and thoughts.
+If you want to know more, stay longer, read some of my articles, maybe you will find them useful.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## I develop software, manage teams, love music. 
 
+### Software
+I am passionate JVM developer with 8 years of commercial experience.
+As JVM developer I see myself as a person that is capable of crafting software running on JVM.
+I like to deliver software with high quality in Java, Kotlin. 
+I like scalable solutions and challenges.
 
-[jekyll-organization]: https://github.com/jekyll
+### Management
+I learn how to work with people and with myself. Trying to improve my communication skills.
+
+### Music
+I am a musician. I play on button accordion: [video](https://youtu.be/F48nbP6nnts). 
+I listen music - all kinds. 
