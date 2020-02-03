@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 My name is Rafał Machnik.
-Software, management and music is my first blog ever.
-![Me](/assets/avatar1.jpeg)
+![Me](/assets/me.jpeg)
 
 ### Why?
 I treat this blog as space where I share my experience, opinion and thoughts.
@@ -18,10 +17,10 @@ If you want to know more, stay longer, read some of my articles, maybe you will 
 I am passionate JVM developer with 8 years of commercial experience.
 As JVM developer I see myself as a person that is capable of crafting software running on JVM.
 I like to deliver software with high quality in Java, Kotlin. 
-I like scalable solutions and challenges.
+I like to create scalable solutions and solving real live challenges using software.
 
-### Management
-I learn how to work with people and with myself. Trying to improve my communication skills.
+### Communication
+I learn how to work with people and with myself. Constantly trying to improve my communication skills.
 
 ### Music
 I am a musician. I play on button accordion: [video](https://youtu.be/F48nbP6nnts). 
