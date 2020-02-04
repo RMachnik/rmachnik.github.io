@@ -30,8 +30,8 @@ if you work remotely - turn on your camera, don't hide yourself
 * ask questions - there are no stupid questions - as long as you keep your language professional, there are only answers that might be stupid
 * not too long - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
 * [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
-if someone say something you hurt your feelings or well being, use I and say `I don't like what you've just said, it makes me feel`
-* listen - understand other person view, only then address your concerns
+if someone say something you hurt your feelings or well being, use I and say `I don't like what you've just said, it makes me feel...`
+* listen - understand other person view, only then address your concerns if needed
 
 ### Reading time
 I really recommend reading great book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations).
