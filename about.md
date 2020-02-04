@@ -16,9 +16,10 @@ If you want to know more, stay longer, read some of my articles, maybe you will 
 
 ## Software
 I am passionate JVM developer with 8 years of commercial experience.
-As JVM developer I see myself as a person that is capable of crafting software running on JVM.
+### What... who is JVM developer?
+I see myself as a person that is capable of crafting software running on JVM.
 I like to deliver software with high quality in Java, Kotlin. 
-I like to create scalable solutions and solving real live challenges using software.
+Creating scalable solutions and solving real live challenges using software is something I enjoy the most.
 
 ## Communication
 I learn how to work with people and with myself. Constantly trying to improve my communication skills.
