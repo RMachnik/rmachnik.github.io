@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communication is the key"
-date:   2020-02-02 22:50:52 +0100
+date:   2020-02-04 22:50:52 +0100
 categories: blog
 permalink: /blog/
 ---
@@ -37,8 +37,9 @@ Your mimic, body moves helps to pass the right message.
 * not too long - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
 * [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
 if someone say something to piss you off, use I and say 
-`I don't like what you've just said, it makes me feel... I don't want this to happen again.`
-Saying this in that way will stop any further escalations. You have right to be respected.
+> I don't like what you've just said, it makes me feel... I don't want this to happen again.
+
+It will stop further escalation.
 * listen - understand other person view, only then address your concerns if needed.
 
 ### Want more? 
