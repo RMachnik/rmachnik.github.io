@@ -47,7 +47,7 @@ Once clients noticed that I was perceived as partner - not as necessary cost.
 I noticed that working together will bring value to all parties. They were more eager to let me use new technologies. 
 Once I showed right attitude business was more eager to accept usage of new technologies, sometimes even seeing in them advantage.
 
-You will immediately discover `Mission` once you become a boos and use software to solve business problems. 
+You will immediately discover `Mission` once you became *a boos* and use software to solve business problems. 
 If you hire software developer or company you will expect them to bring your business value. 
 Value means solution to your business challenges, this means money to pay that company.
 You would not be interested to give developers opportunity to play with modern stack or learn new technologies.
