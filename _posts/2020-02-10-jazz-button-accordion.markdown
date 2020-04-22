@@ -3,7 +3,7 @@ layout: post
 title:  "Jazz and button accordion"
 date:   2020-02-10 11:50:52 +0100
 categories: blog
-permalink: /blog/
+permalink: /blog/jazz-on-button-accordion
 ---
 ### Accordion + Jazz = ... 
 Some of you hearing world accordion will think... yea, I know what it is.

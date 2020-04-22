@@ -3,7 +3,7 @@ layout: post
 title:  "Ultimate mission of software developer"
 date:   2020-02-07 11:50:52 +0100
 categories: blog
-permalink: /blog/
+permalink: /blog/ultimate-mission
 ---
 ### Mission?
 #### Is software development my passion?

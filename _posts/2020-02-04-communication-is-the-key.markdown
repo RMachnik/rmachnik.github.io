@@ -3,7 +3,7 @@ layout: post
 title:  "Communication is the key"
 date:   2020-02-04 22:50:52 +0100
 categories: blog
-permalink: /blog/
+permalink: /blog/communication
 ---
 ### Communication
 I would start with thesis that communication is the equally important as technical skills to become

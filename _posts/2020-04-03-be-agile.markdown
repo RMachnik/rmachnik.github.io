@@ -3,7 +3,7 @@ layout: post
 title:  "Be agile? But how?"
 date:   2020-04-03 11:50:52 +0100
 categories: blog
-permalink: /blog/
+permalink: /blog/agile
 ---
 ### Be agile? But how? 
 
