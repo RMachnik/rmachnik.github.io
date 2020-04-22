@@ -3,7 +3,7 @@ layout: post
 title:  "Be agile? But how?"
 date:   2020-04-03 11:50:52 +0100
 categories: blog
-permalink: /blog/agile
+permalink: /blog/be-agile
 ---
 ### Be agile? But how? 
 
@@ -37,8 +37,8 @@ It is very hard to work with app that is unpredictable, it is irritating for use
 
 How to get business knowledge? What is the best method? 
 
-I doubt you will find here best method, I want only to point your attention to the method that works for me.
-Worked few times and I like it because it is pretty much flexible. 
+I doubt you will find here the best method, I want only to point your attention to the method that works for me.
+Worked few times, and I like it because it is pretty much flexible. 
 
 **Event Storming**
 
