@@ -60,7 +60,7 @@ It opened my eyes on different concepts like:
 * [lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 * [inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)
 * [monad](https://medium.com/@taluyev/understanding-the-monad-in-java-ce6975706039)
-* [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+* [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 
 Surprisingly, it helped me to be thankful that java is so simple language.
 
