@@ -33,7 +33,7 @@ I doubt, because every business is different, it has different rules and style.
 Maybe general idea is similar but devil is in the details and software is all about details. 
 If you want to write good software you need to consider most of the corner cases and at least plan some 
 behaviour - it does not necessary mean you need to add more features, it means you need to expect it.
-It is very hard to work with app that is unpredictable, it is irritating for users.
+It is very hard to work with application that is unpredictable, it is irritating for users.
 
 How to get business knowledge? What is the best method? 
 
