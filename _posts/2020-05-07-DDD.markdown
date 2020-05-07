@@ -20,7 +20,7 @@ DDD to me is a set of principles that software should be build with. The main go
 is to solve real problems, be response for given need. For example, `Todo list` app - helps people to organise stuff
 and keep not forgetting about things.
 
-####What practises DDD comes with?
+#### What practises DDD comes with?
 I will try to iterate few, I think are most important.
 
 * `understand it` - understanding of business domain, make sure you understand the business domain, do some exercises like 
