@@ -7,6 +7,29 @@ permalink: /blog/ddd
 ---
 ### DDD - what is it? 
 
-DDD is a shortcut for Domain Driven Design.
+DDD is a shortcut for [Domain-driven Design](https://en.wikipedia.org/wiki/Domain-driven_design).
+I don't fully agree with definition given by Wikipedia. To me DDD is more subjective and is more like 
+Clean Code or Agile. We more or less know what it is, but it is very subjective how given teams implement this.
 
-Stay tuned, more to come.
+I must admit, that I struggled with understanding of DDD for quite a long time. It was not easy even after 
+reading `Domain-driven design` by Eric Evans. There is another book that I highly recommend reading: `Implementing 
+Domain-driven design` by Vaughn Vernon. Problem I had after reading those books was that I was so focused on code 
+that I did not catch what is the key.
+
+DDD to me is a set of principles that software should be build with. The main goal for any software 
+is to solve real problems, be response for given need. For example, `Todo list` app - helps people to organise stuff
+and keep not forgetting about things.
+
+####What practises DDD comes with?
+I will try to iterate few, I think are most important.
+
+* `understand it` - understanding of business domain, make sure you understand the business domain, do some exercises like 
+[event-storming](https://en.wikipedia.org/wiki/Event_storming)
+* `name it` - ubiquitous language, software and business should speak the same language, no exceptions, translations, mappings
+* `identify context` - be aware of context, some domains are quite huge, we need to be aware what context we are in
+* `code it` - craft clean code oriented on the domain, make sure your code is clean and oriented around the business domain
+
+
+#### What we can do? 
+Don't worry, practise, focus on business.
+

@@ -6,7 +6,7 @@ categories: blog
 permalink: /blog/communication
 ---
 ### Communication
-I would start with thesis that communication is the equally important as technical skills to become
+I would start with the thesis that communication is the equally important as technical skills to become
 fully professional software engineer.
 
 ### Why
@@ -25,9 +25,9 @@ It is not easy to pass clear messages in native language add to this expressing 
 This will help to keep healthy atmosphere even if there are different opinions and views.
 Even if someone pressed your buttons, try to stay calm, fighting back is not the best option - be smarter.
 * respect: respect the fact that people might have different view and opinion - just because they can.
-Even if this is totally controversial or non logical view, don't criticize it. Share your view instead.
+Even if this is totally controversial or non-logical view, don't criticize it. Share your view instead.
 * honest: if you are wrong, just admit that, people will respect that, don't play games.
-If someone else is wrong, make sure that you stay with facts and express your view in clear and professional way. 
+If someone else is wrong, make sure you stay with facts and express your view in clear and professional way. 
 No personal trips allowed here.
 If you work remotely - turn on your camera, don't hide yourself. 
 Your mimic, body moves helps to pass the right message.

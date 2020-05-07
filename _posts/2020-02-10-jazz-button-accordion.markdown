@@ -9,11 +9,11 @@ permalink: /blog/jazz-on-button-accordion
 Some of you hearing world accordion will think... yea, I know what it is.
 It is the instrument that my grandfather played on during family events.
 
-Another part will think... yea I know what it is. It is kind of menu.
+Another part will think... yea I know what it is. It is the kind of menu.
 
 Another part will think yea, I saw it, it is this folksy instrument.
 
-You all have right. But I am here to say that there are other ways you can look at accordion.
+You all have right. I am here to say that there are other ways you can look at accordion.
 It can have buttons on both ways. On the accordion you can play everything. 
 Transcriptions of classical music, jazz, folk, electronic music and other kinds.
 

@@ -19,7 +19,7 @@ fun main() {
 {% endhighlight %}
 {% highlight html %}
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <body>
   <script>
     console.log('Hi All');
@@ -33,23 +33,23 @@ Do I really need to know more than 1 software language?
 #### Don't stop learning.
 
 I remember time when in musical school starting from 4th year you were obliged to have second instrument.
-For most of students it was piano. 
+For most of the students it was piano. 
 The reason for that was to understand wider context and [harmony](https://en.wikipedia.org/wiki/Harmony).
 Not all instruments like violin, trumpet, human voice are able to emmit simultaneously multiple tones/notes.
 If you look at the symphonic orchestra, there are many instruments that play together to create great experience.
 Harmony is very important in music. Even POP music has harmony. How many acapella songs you've heard? 
 
 Even during IT studies most of us started from C, C++ or Pascal. I've started from C++.
-All of that was needed to understand wider spectrum of computer basics. Some of languages are better in some areas than others.
+All of that was needed to understand wider spectrum of computer basics. Some languages are better in some areas than others.
 For example in C you don't have any GC, at the same time you have access directly to the memory.
 
-However when it comes to my professional experience.
+However, when it comes to my professional experience.
 I've started writing small apps in java helping team to test software in the client's office.
 Then from one position to another I still stayed with java, at the same time gaining more and more expertise over Java Virtual Machine.
 During my work time I learned javascript, scala, kotlin as well. 
 It doesn't mean am the expert in all of those languages and their semantic.
-It means I can write and understand production code and use most of language features. 
-Being an expert in java helped me a lot to understand and translate some of other language syntax into `java world`.
+It means I can write and understand production code and use most language features. 
+Being an expert in java helped me a lot to understand and translate some other language syntax into `java world`.
 What is the best there is that most of those languages work with JVM, 
 this is something that gives me big advantage when it comes to production maintenance.
 
