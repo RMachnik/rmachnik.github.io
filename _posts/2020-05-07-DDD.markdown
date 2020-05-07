@@ -27,9 +27,11 @@ I will try to iterate few, I think are most important.
 [event-storming](https://en.wikipedia.org/wiki/Event_storming)
 * `name it` - ubiquitous language, software and business should speak the same language, no exceptions, translations, mappings
 * `identify context` - be aware of context, some domains are quite huge, we need to be aware what context we are in
-* `code it` - craft clean code oriented on the domain, make sure your code is clean and oriented around the business domain
-
+* `craft it` - write clean code oriented on the domain, make sure your code is clean and oriented around the business domain,
+avoid [anemia](https://martinfowler.com/bliki/AnemicDomainModel.html), build good API - regardless of the architecture
+(monolithic, microservices, ...) 
+* `revise it` - revise your business and make sure that you understand only constant thing in the world `CHANGE`, adapt to it
 
 #### What we can do? 
-Don't worry, practise, focus on business.
+Don't worry, stay calm, practise, focus on business, ask questions, repeat.
 
