@@ -24,7 +24,7 @@ and keep not forgetting about things.
 I will try to iterate few, I think are most important.
 
 * `understand it` - understanding of business domain, make sure you understand the business domain, do some exercises like 
-[event-storming](https://en.wikipedia.org/wiki/Event_storming)
+[event storming](https://en.wikipedia.org/wiki/Event_storming)
 * `name it` - ubiquitous language, software and business should speak the same language, no exceptions, translations, mappings
 * `identify context` - be aware of context, some domains are quite huge, we need to be aware what context we are in
 * `craft it` - write clean code oriented on the domain, make sure your code is clean and oriented around the business domain,
