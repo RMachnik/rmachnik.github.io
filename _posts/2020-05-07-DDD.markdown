@@ -9,7 +9,7 @@ permalink: /blog/ddd
 
 DDD is a shortcut for [Domain-driven Design](https://en.wikipedia.org/wiki/Domain-driven_design).
 I don't fully agree with definition given by Wikipedia. To me DDD is more subjective and is more like 
-Clean Code or Agile. We more or less know what it is, but it is very subjective how given teams implement this.
+Clean Code or Agile. We more or less know what it is, but it is very different how given teams implement this.
 
 I must admit, that I struggled with understanding of DDD for quite a long time. It was not easy even after 
 reading `Domain-driven design` by Eric Evans. There is another book that I highly recommend reading: `Implementing 
