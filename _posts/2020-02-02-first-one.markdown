@@ -6,26 +6,26 @@ categories: blog
 permalink: /blog/first
 ---
 {% highlight java %}
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hi All!")
+    public class Hello {
+        public static void main(String[] args) {
+            System.out.println("Hi All!")
+        }
     }
-}
 {% endhighlight %}
 {% highlight kotlin %}
-fun main() {
-    println("Hi All!")
-}
+    fun main() {
+        println("Hi All!")
+    }
 {% endhighlight %}
 {% highlight html %}
 <!DOCTYPE HTML>
-<html lang="en">
-<body>
-  <script>
-    console.log('Hi All');
-  </script>
-</body>
-</html>
+    <html lang="en">
+    <body>
+      <script>
+        console.log('Hi All');
+      </script>
+    </body>
+    </html>
 {% endhighlight %}
 Do I really need to know more than 1 software language?
 
