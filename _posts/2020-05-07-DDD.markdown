@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DDD - what is it?"
+date:   2020-05-07 11:50:52 +0100
+categories: blog
+permalink: /blog/ddd
+---
+### DDD - what is it? 
+
+DDD is a shortcut for Domain Driven Design.
+
+Stay tuned, more to come.
