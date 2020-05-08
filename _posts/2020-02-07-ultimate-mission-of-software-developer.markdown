@@ -39,7 +39,7 @@ I was asking myself and my team following questions.
 Why business is not willing to give us money/time to deal with tech debt? Why I was not able to learn, experience 
 new technologies? What is wrong?
 
-After some time, I've changed job, but it didn't help much. In the next place all was the same after some time.
+After some time, I've the changed job, but it didn't help much. In the next place all was the same after some time.
 
 Once I've realised what is really a **Mission of Software Developer** my life got much happier. 
 My focus shifted onto clients, proper understanding of business problem became my goal. 
