@@ -35,7 +35,7 @@ Happy Developer is using modern technologies, have time to learn, have chance to
 ### My story 
 At the beginning of my career I struggled. After few months I've joined project I got more and more frustrated.
 I was asking myself and my team following questions.
->Why we can't use modern stack and we need to use old java 6?
+>Why we can't use a modern stack, and we need to use old java 6?
 Why business is not willing to give us money/time to deal with tech debt? Why I was not able to learn, experience 
 new technologies? What is wrong?
 
