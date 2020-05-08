@@ -20,9 +20,9 @@ Let me do one step back and again ask few questions.
 * What is the outcome of software development?
 * How would you describe a good piece of software that you as user like to use?
 
-1. Clients are paying for our work, if there were no business we won't be needed.
-2. Digital solution for real life problem.
-3. Software that overcome real challenge - having that piece of software in place thing is simple.
+1. **Clients** are paying for our work, if there were no business we won't be needed.
+2. Digital solution for **real life problem**.
+3. Software that overcome **real challenge** - having that piece of software in place thing is simple.
 
 Answering on above question reveals the mission consider as the most important for Software Developers. 
 Once we understand what it our life will be easier. 
