@@ -47,5 +47,5 @@ This form gives a big flexibility. Main goal for it is to level up knowledge and
 From my experience, we can do it with different levels of abstraction - staying on high level or if we have more time
 we can go into lower level touching details of the processes. It is good to start with creating own legend. 
 Not always we have all card colours or colours are not exactly the same. Flexibility is the key.
-After workshop we should take a picture of our board. It will be useful later for us to go back after some time.
+After the workshop, we should take a picture of our board. It will be useful later for us to go back after some time.
 I recommend doing it again after some time. 
