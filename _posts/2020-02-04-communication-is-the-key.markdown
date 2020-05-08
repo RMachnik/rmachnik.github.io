@@ -35,8 +35,8 @@ Your mimic, body moves helps to pass the right message.
 
 #### How to do that?
 * `ask questions` - there are no stupid questions, assuming you respect above rules you should be fine.
-* not too long - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
-* [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
+* `not too long` - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
+* `I` - [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
 if someone say something to press your buttons
 > I don't like what you've just said, it makes me feel... I don't want this to happen again.
 
