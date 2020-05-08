@@ -19,7 +19,7 @@ Bad code is as dangerous as bad communication.
 
 ### What I think good communication should look like?
 * clear: you should express your thoughts in clear understandable way.
-If you do it in non native language try to upgrade your language skills to make it like a native. 
+If you do it in non-native language try to upgrade your language skills to make it like a native. 
 It is not easy to pass clear messages in native language add to this expressing ideas in foreign one.
 * professional: remember this is work it is not your home, stay professional, keep your voice calm and emotions under control.
 This will help to keep healthy atmosphere even if there are different opinions and views.
@@ -33,7 +33,7 @@ If you work remotely - turn on your camera, don't hide yourself.
 Your mimic, body moves helps to pass the right message.
 
 #### How to do that?
-* ask questions: there are no stupid questions, assuming that you respect above rules you should be fine.
+* ask questions: there are no stupid questions, assuming you respect above rules you should be fine.
 * not too long - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
 * [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
 if someone say something to piss you off, use I and say 

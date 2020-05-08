@@ -62,7 +62,7 @@ It opened my eyes on different concepts like:
 * [monad](https://medium.com/@taluyev/understanding-the-monad-in-java-ce6975706039)
 * [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 
-Surprisingly, it helped me to be thankful that java is so simple language.
+Surprisingly, it helped me to be thankful java is so simple language.
 
 After some time it gave me possibility to judge over the language flavours and suitability. 
 Do I plan to learn more? Yes, but for now I am focused on getting my head around algorithms.
