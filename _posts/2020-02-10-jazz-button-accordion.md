@@ -4,7 +4,7 @@ title: "Jazz and button accordion"
 author: "Rafal Machnik"
 categories: blog
 tags: [music]
-image: brayce-1.jpg
+image: krk-1.jpg
 ---
 ### Accordion + Jazz = ... 
 Some of you hearing world accordion will think... yea, I know what it is.

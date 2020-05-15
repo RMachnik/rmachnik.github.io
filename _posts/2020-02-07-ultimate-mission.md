@@ -4,7 +4,7 @@ title: "Ultimate mission"
 author: "Rafal Machnik"
 categories: blog
 tags: [communication]
-image: joshua-1.jpg
+image: joshua-2.jpg
 ---
 ### Mission?
 #### Is software development my passion?
