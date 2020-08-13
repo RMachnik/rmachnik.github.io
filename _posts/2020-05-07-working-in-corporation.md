@@ -10,11 +10,11 @@ image: jura-2.jpg
 
 `Hate or love...?`
 
-Let me start with **why**. 
+Let me start with `why`. 
 I wanted to write this because I think it is worth to share. Especially something that you've experienced.
 I see quite a lot of valuable articles recently so wanted to pay the debt. I am writing my own.
 
-I do work for the corporation, pretty big one. That is not my first corporation I am working in. 
+I do work for the corporation, pretty big one. That is not my first corporation I am working for. 
 However, I've used to for a startup as well. I was programmer, team leader in both places. 
 My role and responsibilities were very similar. Nevertheless, I see some differences.
 
@@ -36,4 +36,4 @@ In the place I live, it is easier to find a job in a corporation than in a start
 outsourcing here.
 
 If I am able to identify my customers, I am able to get their feedback, this gives me satisfaction.
-So that, I can tell, I like working for a corporation. I don't mind, as long as I know who **my customer** is.
+So that, I can tell, I like working for a corporation. I don't mind, as long as I know who `my customer` is.
