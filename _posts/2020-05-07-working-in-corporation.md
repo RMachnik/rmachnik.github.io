@@ -37,3 +37,5 @@ outsourcing here.
 
 If I am able to identify my customers, I am able to get their feedback, this gives me satisfaction.
 So that, I can tell, I like working for a corporation. I don't mind, as long as I know who `my customer` is.
+
+Cheers
