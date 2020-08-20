@@ -29,8 +29,9 @@ Understand why and figure out what and how together with Teams.`
 I strongly believe that things get simple if we understand who is paying our bills - `CUSTOMERS`.
 Once all employees in the organisation pays attention to customers most things become clear.
 
-Teams should understand why they do software and what for they will start to think differently. 
-They will start to care about the software and maintenance. Teams collectively will come out with solutions that work.
+Teams should understand why they do software. Once they do that, perspective will change. 
+They will start to care about the software and maintenance, effectively the precious customer. 
+Teams will collectively come out with solutions. 
 `You ship it, you run it` - power comes with responsibility, if we have capabilities of delivering software we should take 
 responsibility of taking right care of it.
 
