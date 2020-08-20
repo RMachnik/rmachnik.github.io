@@ -21,7 +21,7 @@ My role and responsibilities were very similar. Nevertheless, I see some differe
 Some people might say, I hate a corporation, it is too big, there are a lot of procedures etc. That is true, they are
 way bigger than small startups where you know your boss and all co-workers. 
 
-Let me give you my view on this.
+#### My view
 
 In a corporation, it is harder to find who is your customer. Why? Most of the time there are a lot of people around.
 Business, marketing, HR might not sit close to the IT staff. This fact make things easy to lose the context of why 
