@@ -4,7 +4,7 @@ title: "Architect"
 author: "Rafal Machnik"
 categories: blog
 tags: [communication]
-image: krk-3.jpg
+image: pieniny-1.jpg
 ---
 ### Do I want to become an Architect?
 
