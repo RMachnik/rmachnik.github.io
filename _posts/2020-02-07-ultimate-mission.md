@@ -11,7 +11,7 @@ image: joshua-2.jpg
 Most of the people reading this article responded yes. That's good. I like software development as well. 
 I could not stand it in other case. How would I sit in front of screen for more than 6h per day?
 Hoping that we do what we are really passionate about it would be good to realise what could help us
-to keep our work interesting and satisfactory or improve that.
+to keep our work interesting and satisfying or improve that.
 
 From time to time we think that we need to do boring stuff because project we work in is old, 
 it is based on legacy technologies, our business reject innovations...
