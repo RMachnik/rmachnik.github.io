@@ -26,7 +26,7 @@ It is not easy to pass clear messages in native language add to this expressing 
 * `professional` - remember this is work it is not your home, stay professional, 
 keep your voice calm and emotions under control.
 This will help to keep healthy atmosphere even if there are different opinions and views.
-Even if someone pressed your buttons, try to stay calm, fighting back is not the best option - be smarter.
+Even if someone presses your buttons, try to stay calm, fighting back is not the best option - be smarter.
 * `respect-full` - respect the fact that people might have different view and opinion - just because they can.
 Even if this is totally controversial or non-logical view, don't criticize it. Share your view instead.
 * `honest` - if you are wrong, just admit that, people will respect that, don't play games.
@@ -39,7 +39,7 @@ Your mimic, body moves helps to pass the right message.
 * `ask questions` - there are no stupid questions, assuming you respect above rules you should be fine.
 * `not too long` - try to keep your messages short, average person can hold their focus for short time - approx 10 - 20 min
 * `I` - [use I](https://www.goodtherapy.org/blog/psychpedia/i-message) -
-if someone say something to press your buttons
+if someone say something to presses your buttons
 > I don't like what you've just said, it makes me feel... I don't want this to happen again.
 
 It will stop further escalation.
