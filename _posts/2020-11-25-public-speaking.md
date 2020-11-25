@@ -16,7 +16,7 @@ Do not hesitate and be shy, you can start with blogging and then go on small in 
 
 ### My tries 
 
-*[CQRS](https://www.youtube.com/watch?v=YHAV-3vBxDE)
-*[DDD](https://www.youtube.com/watch?v=SLVASwjvLHU)
+* [CQRS](https://www.youtube.com/watch?v=YHAV-3vBxDE)
+* [DDD](https://www.youtube.com/watch?v=SLVASwjvLHU)
 
 Cheers
