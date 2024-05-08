@@ -14,7 +14,7 @@ I treat this blog as space where I share my experience, opinion and thoughts.
 If you want to know more, stay longer, read some of my articles, maybe you will find them useful.
 
 ## Software
-I am passionate JVM developer with 8 years of commercial experience.
+I am passionate JVM developer with more than 10 years of commercial experience.
 ### What... who is JVM developer?
 I see myself as a person that is capable of crafting software running on JVM.
 I like to deliver software with high quality in Java, Kotlin. 
